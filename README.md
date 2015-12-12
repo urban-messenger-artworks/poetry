@@ -19,3 +19,5 @@ List of poems
 - Bài thơ không tên số 1
 - Trăng
 - Góc phố buồn
+- Nhớ
+- Giang ơi
