@@ -9,6 +9,7 @@ List of poems
 - Lost
 - The darkness falls
 - The little things
+- At L'Usine, the cafeteria (my own translation of "À la cafétéria de l'Usine")
 
 **French poems**
 - À la cafétéria de l'Usine
