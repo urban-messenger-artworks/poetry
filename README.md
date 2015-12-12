@@ -22,3 +22,8 @@ List of poems
 - Góc phố buồn
 - Nhớ
 - Giang ơi
+
+** Translation
+- L'Adieu - Apollinaire
+-- Farewell
+-- Ly Biệt
